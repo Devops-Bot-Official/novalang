@@ -1,4 +1,4 @@
-NovaLang is a lightweight, developer-friendly programming language designed for configuration and scripting purposes, tailored specifically for DevOps workflows and infrastructure as a service (IaaS) tools. NovaLang combines simplicity, readability, and flexibility, making it easier to manage and automate DevOps tasks.
+NovaLang is a lightweight, developer-friendly programming language designed for configuration and scripting purposes, tailored specifically for DevOps workflows and infrastructure as a service (IaaS) tools. NovaLang combines simplicity, readability, and flexibility, making it easier to manage and automate DevOps tasks.  NovaLang – Inspired by new and innovative tools.
 
 ---
 
